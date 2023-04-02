@@ -14,11 +14,11 @@ import Signup from "../components/Authentication/Signup";
 
 function Homepage() {
   return (
-    <Container maxw="xl" centreContent>
+    <Container maxw="xl" centrecontent="true">
       <Box
         d="flex"
         textAlign="center"
-        // justifyContent="center"
+        // justifycontent="center"
         p={3}
         bg={"white"}
         w="100%"
