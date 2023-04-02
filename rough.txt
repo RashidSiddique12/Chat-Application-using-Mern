@@ -1,3 +1,10 @@
+
+Video 9 => 36.35 [i am getting a error regarding "/api/chats"]
+
+
+
+
+
 {
   "name": "chat-app",
   "version": "1.0.0",
